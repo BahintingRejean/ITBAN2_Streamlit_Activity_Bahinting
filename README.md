@@ -18,6 +18,7 @@ In task 2, the users can enable uploading any CSV file or a dataset. It begins w
 
 
 ![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/b49ddc47f508bcf5bbd34707a0ba03dcb9f4992b/Screenshot%20(214).png)
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/a4ac1987af9f3dc6690c94391e62c744797f85d6/Activity3_1.png)
 
 
 Task 3
