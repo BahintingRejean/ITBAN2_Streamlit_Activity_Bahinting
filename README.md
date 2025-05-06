@@ -10,6 +10,7 @@ In task 1, I started importing the necessary library, like streamlit as st. It d
 
 ![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/5d510cc4f4270ca3270d33fd94d07dc8525e289b/Screenshot%20(212).png)
 
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/cc13d08459c7d4e100d600b2d9ec4fd3f0d7f8cb/Activity2.png)
 
 Task 2
 
