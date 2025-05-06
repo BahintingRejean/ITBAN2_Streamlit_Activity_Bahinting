@@ -45,6 +45,8 @@ Task 5
 In task 5, it is designed to allow an admin to manage student and course records within a school system database. The app connects to a MySQL database using SQLAlchemy, and upon logging in via the sidebar with valid credentials, the admin can interact with student and course data. The app lets the admin view records from the selected table, with the ability to apply custom SQL filters. 
 
 
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/dced35320618bdc73570cdad3bcedda73a13376e/Screenshot%20(224).png)
+
 
 Task 6 
 
