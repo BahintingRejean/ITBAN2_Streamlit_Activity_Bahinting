@@ -46,6 +46,7 @@ In task 5, it is designed to allow an admin to manage student and course records
 
 
 ![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/dced35320618bdc73570cdad3bcedda73a13376e/Screenshot%20(224).png)
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/5413969e027643838460fd1f11a6a9e392b7cb8e/Activity6.png)
 
 
 Task 6 
