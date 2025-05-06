@@ -27,6 +27,7 @@ This task serves as an interactive guide about data warehousing and enterprise d
 
 
 ![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/217362c36c22fc84effa425cfd4770ed15b86678/Screenshot%20(218).png)
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/ca44eb8d6059176270b852755ec65b6013299a09/Activity4_1.png)
 
 
 Task 4
