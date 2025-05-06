@@ -1,3 +1,6 @@
+
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/baf89c8ae4d4b1eeee03ccf7b17b34a5f100e86d/Screenshot%20(211).png)
+
 Task 1
 
 In task 1, I started importing the necessary library, like streamlit as st. It displays a welcoming title, header, and a brief description to orient the user. It then collects user input through several fields: email, a masked PIN (for privacy), full name, address, and age (restricted between 1 and 100 for validation). These inputs are created using st.text_input for text and st.number_input for the numeric age field. After the user enters their details, the app immediately reflects the information back using st.write, adding emojis for a more user-friendly and visually appealing output.
