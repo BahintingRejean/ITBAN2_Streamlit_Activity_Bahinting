@@ -25,6 +25,10 @@ Task 3
 
 This task serves as an interactive guide about data warehousing and enterprise data management and related topics. It features a sidebar menu that allows users to select topics like ETL, Data Integration, and Performance Optimization, with each section dynamically displaying relevant explanations. An expandable section gives a quick overview of data warehousing and enterprise data management. Additional learning content is provided through tabs on real-time analytics, cloud data warehousing, and data archiving.
 
+
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/217362c36c22fc84effa425cfd4770ed15b86678/Screenshot%20(218).png)
+
+
 Task 4
 
 In this task 4 , it shows the data dashboard of COVID-19 that allows users to select a country from a dropdown menu (st.selectbox) and view the past 30 days of pandemic trends. After setting up the page layout and title, it shows the historical COVID-19 data from the public API disease.sh using the selected country. If the API request is successful and contains a "timeline," the data for cases, deaths, and recoveries is extracted and converted into a pandas DataFrame with a datetime index. Summary statistics for total cases, deaths, and recoveries are displayed at the top using metric widgets. The app then splits into two columns to show visualizations: line, area, pie, and bar charts for trends in cases, recoveries, and deaths, as well as a delta chart showing new daily cases. Finally, it displays a data table previewing the last 30 days, with error handling included in case of API issues.
