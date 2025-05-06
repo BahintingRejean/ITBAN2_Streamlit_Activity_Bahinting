@@ -17,6 +17,8 @@ Task 2
 In task 2, the users can enable uploading any CSV file or a dataset. It begins with a title and brief description, then utilizes the sidebar for file upload via st.sidebar.file_uploader. After a file is uploaded, the app reads the data using pandas and shows a preview of the first few rows with st.dataframe(df.head()). There's also an option to display the complete dataset using a checkbox. For filtering, users can choose a column from a dropdown list and then select a specific value within that column to filter the data. The resulting filtered dataset is displayed on the main screen and can be downloaded as a new CSV file through st.sidebar.download_button, providing a simple and interactive way to explore and extract data without needing to write any code.
 
 
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/b49ddc47f508bcf5bbd34707a0ba03dcb9f4992b/Screenshot%20(214).png)
+
 
 Task 3
 
