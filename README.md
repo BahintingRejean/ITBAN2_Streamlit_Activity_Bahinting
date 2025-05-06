@@ -36,6 +36,7 @@ In this task 4 , it shows the data dashboard of COVID-19 that allows users to se
 
 
 ![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/9a5e2ea78147688c27c7d6771b12f59f5787ff41/Screenshot%20(221).png)
+![image alt](https://github.com/BahintingRejean/ITBAN2_Streamlit_Activity_Bahinting/blob/8ffd40fb89de85b64558abd7e2ba4ee6e9a77022/Activity5_1.png)
 
 
 Task 5
